@@ -7,5 +7,5 @@ import (
 
 func main() {
 	fmt.Println("Hello World")
-	os.Exit(84)
+	os.Exit(0)
 }
