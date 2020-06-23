@@ -7,5 +7,6 @@ import (
 
 func main() {
 	fmt.Println("Hello World")
-	os.Exit(0)
+	fmt.Println("Please build")
+	os.Exit(84)
 }
